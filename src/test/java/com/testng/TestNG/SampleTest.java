@@ -2,7 +2,7 @@ package com.testng.TestNG;
 
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class SampleTest {
 	
 	@Test(priority = -1)
 	private void iPhone() {
