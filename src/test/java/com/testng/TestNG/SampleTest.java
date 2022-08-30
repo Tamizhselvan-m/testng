@@ -34,4 +34,8 @@ public class SampleTest {
 		Thread.sleep(5000);
 		System.out.println("time");
 	}
+	@Test
+	private void end() {
+		System.out.println("Completed");
+	}
 }
